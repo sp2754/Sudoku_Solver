@@ -16,7 +16,7 @@ class Grid:
         [0, 9, 8, 0, 3, 0, 6, 4, 0],
         [7, 6, 0, 0, 4, 8, 5, 3, 9]
     ]
-
+#you can change above for your puzzel
     def __init__(self, rows, cols, width, height, win):
         self.rows = rows
         self.cols = cols
