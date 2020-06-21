@@ -4,6 +4,7 @@ import time
 pygame.font.init()
 
 
+#here tou can give your puzzel 0's are blank
 class Grid:
     board = [
         [3, 7, 0, 4, 0, 9, 1, 5, 0],
